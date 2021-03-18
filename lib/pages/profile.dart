@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:food_booking_app/defaults/config.dart';
 import 'package:food_booking_app/defaults/images.dart';
 
 class Profile extends StatefulWidget {
